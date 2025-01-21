@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Debt Calculation</string>
+    <string name="no_debt_description">Nessun Debito trovato</string>
+    <string name="back_button">Back</string>
+    <string name="save_action">Salva</string>
+    <string name="debt_amount">Importo</string>
+    <string name="debt_desc">Descrizione</string>
+    <string name="required_fields">Capi obbligatori</string>
+</resources>
